@@ -97,9 +97,9 @@ module.exports = function (ctx) {
       // workboxPluginMode: 'InjectManifest',
       // workboxOptions: {}, // only for NON InjectManifest
       manifest: {
-        // name: 'HeroMillions',
-        // short_name: 'HeroMillions',
-        // description: 'Generates keys based on the stats from previous drafts',
+        // name: 'quasar-starter-pack',
+        // short_name: 'quasar-starter-pack',
+        // description: 'quasar-starter-pack',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
