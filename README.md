@@ -1,6 +1,6 @@
-# HeroMillions (heromillions)
+# quasar-starter-pack (quasar-starter-pack)
 
-Generates keys based on the stats from previous drafts
+quasar-starter-pack
 
 ## Install the dependencies
 ```bash

@@ -97,9 +97,9 @@ module.exports = function (ctx) {
       // workboxPluginMode: 'InjectManifest',
       // workboxOptions: {}, // only for NON InjectManifest
       manifest: {
-        // name: 'HeroMillions',
-        // short_name: 'HeroMillions',
-        // description: 'Generates keys based on the stats from previous drafts',
+        // name: 'quasar-starter-pack',
+        // short_name: 'quasar-starter-pack',
+        // description: 'quasar-starter-pack',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
@@ -135,7 +135,7 @@ module.exports = function (ctx) {
     },
 
     cordova: {
-      // id: 'com.hymperalix.heromillions',
+      // id: 'com.hymperalix.quasar-starter-pack',
       // noIosLegacyBuildFlag: true, // uncomment only if you know what you are doing
     },
 
@@ -163,7 +163,7 @@ module.exports = function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        // appId: 'heromillions'
+        // appId: 'quasar-starter-pack'
       }
     }
   }
